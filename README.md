@@ -1,0 +1,1 @@
+  This Java file has been created to instruct beginner programmers on the foundations of Java - As a coding coach, I use this to explain object-oriented programming, libraries, objects, and methods to my students. Feel free to use!
